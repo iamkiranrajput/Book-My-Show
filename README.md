@@ -1,5 +1,7 @@
 # Book My Movie Project
 
+![—Pngtree—character illustration movie tv series_6447075](https://github.com/iamkiranrajput/Book-My-Show/assets/68410560/2e3e7fb8-481f-4e74-b88f-4f8e72cf6123)
+
 ## Overview
 
 Welcome to the "Book My Show" project! This web application is designed to help users discover and book their favorite movies. Built using HTML, CSS, JavaScript, PHP, and MySQL, the project leverages the power of XAMPP to create a seamless and dynamic movie booking experience.
