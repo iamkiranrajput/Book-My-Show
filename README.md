@@ -20,7 +20,7 @@ To run the "Book My Show" project on your local machine, follow these steps:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iamkiranrajput/book-my-show.git
+   git clone https://github.com/iamkiranrajput/Book-My-Show.git
    ```
 
 3. **Database Setup:**
@@ -33,7 +33,7 @@ To run the "Book My Show" project on your local machine, follow these steps:
    - Start the Apache and MySQL services using the XAMPP control panel.
 
 6. **Access the Application:**
-   - Open your web browser and navigate to `http://localhost/book-my-show`.
+   - Open your web browser and navigate to `http://localhost/Book-My-Show`.
 
 ## Technologies Used
 
