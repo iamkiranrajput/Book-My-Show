@@ -1,0 +1,141 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: right;
+  }
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .sign-in-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .search-form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .search-form form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .search-form input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+
+  .search-form input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .booking-form {
+    text-align: center;
+  }
+
+  .booking-form h2 {
+    color: #333;
+  }
+
+  .booking-form form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  label {
+    margin: 10px;
+  }
+
+  select, input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+
+  a.book-now-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+  }
+  .booknowbtn{
+      cursor: pointer;
+      padding: 10px;
+      margin-left:6px ;
+      background-color:#4CAF50;
+      border: none;
+      border-radius:5px ;
+      color: white;
+
+  }
